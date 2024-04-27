@@ -4,6 +4,8 @@ SMALL-ServoHolder-final.stl - I made this file to house a small servo for people
 Sonar-holder-4-one-sonar-final.svg - I made this file for people with laser cutter, to cut and glue together Sonar holder.
 HOSYOND-2WDsonarRobot.zip  -  Kit from Amazon.com that has everything included and info how to find schema, wiring and several test files. (I'll upload a video later this week for the kit)
 
+My video is here: https://youtu.be/m-0sG17Mn68?list=PLv52A7rm-UViZEOlzZfZOB9Gl8cjS3ze5
+
 Parts for this project:  
 https://www.amazon.com/dp/B09TW78G9Q?psc=1&ref=ppx_yo2ov_dt_b_product_details
 https://www.amazon.com/dp/B07NV7SD3F?ref=ppx_yo2ov_dt_b_product_details&th=1
